@@ -1,2 +1,5 @@
-# Onlie-Game
-I build a online game! This online game is very funny but you can't play it if you don't make some changes I will put the changes on the README file
+In the cmd write ipconfig and find the IP Adress!
+In the server file search the server variable and repalce that IP with your's!
+Same thing with the network file but there put the other player's Ip!
+Run first the server and then the client file!
+You can be player 1 and 2!
